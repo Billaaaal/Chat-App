@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "95871267309",
+    "firebase_url": "https://festive-ally-347114-default-rtdb.firebaseio.com",
+    "project_id": "festive-ally-347114",
+    "storage_bucket": "festive-ally-347114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95871267309:android:1c84273be1fcf7d331f7e4",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95871267309-st4honichmo9m08ughr1qjmo4id2mrkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgAjnUodijc4EIF_IyCUtkfNtPYDiqHCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95871267309-st4honichmo9m08ughr1qjmo4id2mrkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
